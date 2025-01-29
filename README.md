@@ -1,5 +1,9 @@
 # SMART-WASTE-MANAGEMENT-AND-RECYCLING-PLANNER
-A Smart Waste Management System using Java, Data Structures, and Swing for an interactive desktop application. It provides an optimized waste collection route for drivers, offers waste categorization and recycling tips for citizens, and allows municipal authorities to manage waste collection programs efficiently.
+## 📌 Project Overview
+The **Smart Waste Management System** is a desktop application built in **Java** using **Swing for GUI** and **Data Structures (Graph, Trie, HashMap, etc.)** for efficient waste management. 
+
+The system aims to **optimize waste collection routes, promote recycling habits, and help municipal corporations manage waste effectively**.
+
 ---
 
 ## 🚀 Features
